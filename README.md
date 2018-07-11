@@ -207,7 +207,7 @@ public interface LogoDownMoveListener {
     void onLogoDownItemMove(RecyclerView.ViewHolder holder);
 }
 
-# 6: ItemDecoration 分割线 （如需要 粘性头部 列表，也在这个继承类中实现,本篇不做赘述）\
+# 6: ItemDecoration 分割线 （如需要 粘性头部 列表，也在这个继承类中实现,本篇不做赘述）
 
 public class MyItemDecroation extends RecyclerView.ItemDecoration {
 
