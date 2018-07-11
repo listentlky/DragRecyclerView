@@ -1,6 +1,6 @@
 # DragRecyclerView
  
-#RecyclerView + ItemTouchHelper +ItemDecoration 实现 列表拖拽、滑动删除；
+#RecyclerView + ItemTouchHelper +ItemDecoration 实现 自定义分割线、列表拖拽、滑动动画删除；
  
 # 很早的代码， 最近项目整理，留存一下；
  
